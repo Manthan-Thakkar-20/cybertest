@@ -1,4 +1,0 @@
-Remove server side hashing once frontend is done
-Put a proper hostname if we get one
-Move rest api stuff into the frontend server.js
-Frontend
